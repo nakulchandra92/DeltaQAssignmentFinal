@@ -1,0 +1,3 @@
+
+window['cmsg']['assets'] = window['cmsg']['assets'] || {};
+window['cmsg']['assets']["en"] = Object.assign(window['cmsg']['assets']["en"] || {}, {"YLOs":{"js":["ce02edff2bbc27a0d5878ad353f232e47bcb4554.strings.js"],"css":[]}});
