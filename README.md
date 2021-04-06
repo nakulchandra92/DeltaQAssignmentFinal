@@ -1,12 +1,12 @@
 # Deltaqproject
 
 Pre-requisite
-  1. Docker should be installed in the local machine
+  1. Docker and Git should be installed in the machine.
   2. If installing in aws/azure/GCP, inbound and outbound traffic should be open for 4200 and 5001 ports.
 
 Clone the directory to your local machine
 
-git clone https://github.com/nakulchandra92/DeltaQproduct
+git clone https://github.com/nakulchandra92/DeltaQAssignmentFinal
 
 Remove any unwanted characters from shell script
 
