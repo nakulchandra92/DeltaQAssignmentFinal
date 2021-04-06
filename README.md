@@ -8,6 +8,9 @@ Clone the directory to your local machine
 
 git clone https://github.com/nakulchandra92/DeltaQproduct
 
+Remove any unwanted characters from shell script
+
+sed -i -e 's/\r$//' script.sh
 
 Run the shell script(only for linux hosts) for replacing the 'localhost' in the angular source code to the local machine ip address
 
